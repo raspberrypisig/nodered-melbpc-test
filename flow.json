@@ -1,1 +1,1 @@
-[]
+[{"id":"75963448.14651c","type":"tab","label":"test","disabled":false,"info":""},{"id":"b010ce9e.220208","type":"inject","z":"75963448.14651c","name":"","topic":"","payload":"hello world","payloadType":"str","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":140,"y":140,"wires":[["af79db3c.189f6"]]},{"id":"af79db3c.189f6","type":"debug","z":"75963448.14651c","name":"","active":true,"tosidebar":true,"console":false,"tostatus":false,"complete":"false","x":410,"y":140,"wires":[]}]
